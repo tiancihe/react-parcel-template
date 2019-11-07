@@ -1,0 +1,9 @@
+# NPM
+node_modules
+
+# Parcel
+.cache
+dist
+
+# MacOS
+.DS_STORE
