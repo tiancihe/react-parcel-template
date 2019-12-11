@@ -1,8 +1,12 @@
 # NPM
 node_modules
+package-lock.json
+yarn.lock
 
 # Parcel
 .cache
+
+# Dist
 dist
 
 # MacOS
